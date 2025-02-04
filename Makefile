@@ -1,4 +1,4 @@
-a.out:
+a.out: shapes.c
 	gcc shapes.c
 
 clean:

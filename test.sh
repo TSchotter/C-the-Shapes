@@ -2,7 +2,7 @@ echo "Running tests..."
 echo
 
 output=$(./a.out)
-expected_output="*\n
+expected_output="*
 **
 ***
 ****
